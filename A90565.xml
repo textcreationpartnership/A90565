@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition from severall regiments of the Army, viz, Colonell Fleetwoods, Colonell Whalies. Colonell Barksteads, &amp;c. Presented to his Excellency, Thomas Lord Fairfax, at St. Alboni [sic], on Saturday the 11. of this present November, 1648. Wherein they set forth their desires for a speedy, safe, and just settlement, that thereby the kingdom may be freed from the heavy burthens that now they lye under, especially that of free-quarter. Also, a letter from his Excellency, to the committee of the Army, concerning the said grievances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90565</idno>
+            <idno type="STC">Wing P1752</idno>
+            <idno type="STC">Thomason E470_32</idno>
+            <idno type="EEBO-CITATION">99863308</idno>
+            <idno type="PROQUEST">99863308</idno>
+            <idno type="VID">162403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162403)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition from severall regiments of the Army, viz, Colonell Fleetwoods, Colonell Whalies. Colonell Barksteads, &amp;c. Presented to his Excellency, Thomas Lord Fairfax, at St. Alboni [sic], on Saturday the 11. of this present November, 1648. Wherein they set forth their desires for a speedy, safe, and just settlement, that thereby the kingdom may be freed from the heavy burthens that now they lye under, especially that of free-quarter. Also, a letter from his Excellency, to the committee of the Army, concerning the said grievances.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington, at the Blue Anchor in Cornhill, near the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>England and Wales. --  Army --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162403:1" rendition="simple:additions"/>
+            <p>A PETITION FROM Severall Regiments of the Army, <hi>viz.</hi>
+               <list>
+                  <item>Colonell <hi>Fleetwoods,</hi>
+                  </item>
+                  <item>Colonell <hi>Whalies.</hi>
+                  </item>
+                  <item>Colonell <hi>Barkſteads,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>PRESENTED To his Excellency, <hi>Thomas</hi> Lord <hi>Fairfax,</hi> at St. <hi>Albons,</hi> on <hi>Saturday</hi> the 11. of this preſent November, 1648.</p>
+            <p>WHEREIN They ſet forth their Deſires for a ſpeedy, ſafe, and juſt ſettlement, that thereby the Kingdom may be freed from the heavy burthens that now they lye under, eſpecially that of Free Quarter.</p>
+            <p>ALSO, A Letter from his Excellency, to the Committee of the Army, concerning the ſaid grievances.</p>
+            <p>London, <hi>Printed for</hi> George Whittington, <hi>at the Blue Anchor in</hi> Cornhill, <hi>near the</hi> Royall-Exchange.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <div type="letter">
+               <pb facs="tcp:162403:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:162403:2"/>
+               <head>A LETTER FROM HIS Excellency the Lord Gen. <hi>Fairfax,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Committee for the Army.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>HAving had a meeting of divers Officers of the Army, I ap<g ref="char:EOLhyphen"/>prehend their generall ſad Reſent<g ref="char:EOLhyphen"/>ment of the many preſſures now lying upon the Kingdom, in particular, that of free Quarter, whereby they (and the Souldiers under their Com<g ref="char:EOLhyphen"/>mand who have faithfully ſerved their Generation) are even a burden to themſelves, becauſe they are ſo much to the poor Countrey, which is the more grievous to them, becauſe they
+<pb n="2" facs="tcp:162403:3"/>have generally paid their Taxes, and yet the Army not enabled to pay their Quarters, or provide themſelves ne<g ref="char:EOLhyphen"/>ceſsaries againſt the injury of the ap<g ref="char:EOLhyphen"/>proaching ſeaſon. J hoped <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re this we ſhould have received ſome good fruit of your laſt being with us, the matters then agreed, being of ſuch publike concernment, &amp; ſo much requiring ex<g ref="char:EOLhyphen"/>pedition. I deſire you to improve your utmoſt endeavour for a quick diſpatch in providing effectually for the premi<g ref="char:EOLhyphen"/>ſes to prevent thoſe ill conſequences which otherwaye delay therein may produce. J requeſt you to communicate this to the Houſe: ſo hoping to hear ſpeedily from you, J remain</p>
+               <closer>
+                  <dateline>St. Alban<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <date>9 Novemb. 1648.</date>
+                  </dateline> For the Honoured, <hi>R<gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Scowen</hi> Eſq in the Chaire of the Committee for the Army.
+<signed>Your very aſſured friend FAIRFAX.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:162403:3"/>
+               <head>
+                  <hi>To his Excellency,</hi> Thomas <hi>Lord</hi> Fairfax, <hi>Generall of all Forſes raiſed by the Parliament, in the Kingdom of</hi> England, <hi>and Dominion of</hi> Wales.</head>
+               <head type="sub">
+                  <hi>The humble Petition of the Officers and Souldiers in Col. Fleetwoods.</hi> Col. <hi>Whalies,</hi> and Col <hi>Bark ſteads Regi<g ref="char:EOLhyphen"/>ments, under your Excellencies Command.</hi>
+               </head>
+               <p>
+                  <hi>Sheweth,</hi>
+               </p>
+               <p>THat through the bleſſing of God upon the Army, under your Excellencies Conduct, the enemies of this Nations Peace and Freedom, have been twice ſub<g ref="char:EOLhyphen"/>dued.</p>
+               <p>That as we ingaged in Judgment and Conſcience a<g ref="char:EOLhyphen"/>gainſt them, to preſerve this Nation from ſlavery, ſo we hope the Parliament (by whom we were invited to in<g ref="char:EOLhyphen"/>gage) would have executed Juſtice, upon the publike &amp; grand Enemies thereof, and immediately have ſetled a juſt Government, under which every mans freedom, right, and property might have been preſerved.</p>
+               <p>That your Petitioners had ſome hope of that happy fruit of their labours, hazard, &amp; expence of bloud, when the Parliament voted no more addreſſes to the King, and hereupon your Excellency and your Petitioners did teſtifie their approbation of thoſe Votes, and did ingage to adhere, and ſtand by them, in the ſettlement of the Nation without, and againſt the King, or any other that ſhould partake with him, and your Excellency, &amp; your Petitioners received the thanks of both Houſes for the ſame.</p>
+               <p>That notwithſtanding a bloudy Warre hath been ſince rayſed by the Prince his Commiſſion, a forraign Nation invited to (which did) invade us (and as there is ground to believe) by the Kings conſent, thereby to inſlave us, to his exorbitant will and luſt.</p>
+               <p>Yet when through the great mercy and favour of God, All their Forces were ſuppreſt, inſtead of having our ex<g ref="char:EOLhyphen"/>pectations anſwered (as to a juſt ſettlement) we find.</p>
+               <p>That the wicked and bloudy Deſignes of the Enemies of this Kingdom ſtill continue, As of that of <hi>Ireland</hi> by <hi>Ormond,</hi> &amp; that home, threatning the lives of every wel-affected
+<pb n="4" facs="tcp:162403:4"/>perſon. And this we humbly conceive they are the more imboldened unto, becauſe of the prevalency of ſome in greateſt authority, that will let not Juſtice be executed upon the grand fomentors, contrivers, &amp; actors, in the firſt and late Warre. So that the innocent bloud of many of our dear friends (that hath bin ſpilt) the Rapines robberies, burning &amp; ſpoiling many wel-affected Towns and Perſons, of all livelyhood is forgotten, juſt Govern<g ref="char:EOLhyphen"/>ment ſubverted, and ſuch Petitions tending to a feeling of a juſt and equall Government, (as that of the 11. of Septemb. laſt, from the City of <hi>London</hi> and <hi>Weſtminſter</hi>) ſlighted the intolerable burthen of free Quarter ſtill con<g ref="char:EOLhyphen"/>tinued, no redres of publike grivances, by reaſon of which the implacable malice of our twice conquered Enemies, ſeemes to ſteal credit in the hearts of many (whoſe weak<g ref="char:EOLhyphen"/>nes hinders them from diſcerning their evil ends) ſo that their bloudy intentions againſt the wel-affected in this Nation, doth begin to manifeſt it ſelf, both againſt the Parl. men, and the Army, as is apparent by that moſt deſ<g ref="char:EOLhyphen"/>perate and inhumain murthering of Col. <hi>Rainsborough.</hi>
+               </p>
+               <p>That as we conceive, your Excellency and the Army, next under God, are the only Barre, that lyeth in their way, hindering the accompliſhing of their ends: ſo their main deſign is, how to deſtroy you and it. A nd that they endeavour by continuing us on free Quarter, yet provi<g ref="char:EOLhyphen"/>ding Ordinances, againſt it, and inſtructions to enter into no mans houſe (except Inns, Ale-houſes, &amp; Taverns) againſt their wills, which was by us joyfully excepted, that thereby the Country might beeaſed of that devou<g ref="char:EOLhyphen"/>ring Creature free quarter, yet when the Army was thus quartered for the eaſe of the Country, we were content to make hard ſhift to maintain our ſelves out of our pay though it was ſmall, as 2 s. <hi>per diem</hi> for horſe, &amp; 8 d. for foot, but that through the ſubtilty of our Enemies, hath been kept from us, we having not received any pay in 5. months together. So that we muſt either ſtarve and lye in the ſtreetes, or elſe ſtill oppreſſe the Countrey by free Quarter, which renders us odious to the people. And it
+<pb n="5" facs="tcp:162403:4"/>cannot be otherwiſe, ſeeing the Aſſeſments of 60000 l. <hi>per menſem,</hi> if it were all aſſeſſed and gathered (beſides money for providing Armes for the Horſe and Foot, Re<g ref="char:EOLhyphen"/>cruit Horſes, Ammunition for the Army and Garriſons, Coles, Stockings, Shooes for Foot Souldiers, and other incident Charges) will not amount to the Perſonall Pay of the Army by 12000 l. <hi>per menſem.</hi>
+               </p>
+               <p>Now we being preſſed in our Judgments, by our Ene<g ref="char:EOLhyphen"/>mies helliſh &amp; bloudy deſignes, &amp; their inſolent &amp; barba<g ref="char:EOLhyphen"/>rous Carriage, and alſo our hearts burthened with the unſetled condition of this poor Kingdom, are bold to pre<g ref="char:EOLhyphen"/>ſent to your Excellencies conſideration th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe things following.</p>
+               <p n="1">1. That ſpeedy &amp; impartiall Juſtice may be executed upon all the fomentors, contrivors, and actors in the firſt and late Warre.</p>
+               <p n="2">2. That inquiſition be made for the bloud of Col. <hi>Rainsborough.</hi>
+               </p>
+               <p n="3">3. That the ſupream power may be declared and de<g ref="char:EOLhyphen"/>termined, that the want thereof may not be the ground of future, (as it hath been of theſe former) Warres.</p>
+               <p n="4">4. That a period be ſet for this preſent Parl. to end as ſoone as may be with ſafety, and proviſions made for fu<g ref="char:EOLhyphen"/>ture Parliments to meet certain without writ or ſumons.</p>
+               <p n="5">5. That rules may be ſet down between the people and their Repreſentatives.</p>
+               <p n="6">6. That Lawes may be made in things civill to bind all men, ſo that no man in caſe of offence, may be freed from that Law whereunto another is ſubject.</p>
+               <p n="7">7. That all thoſe common grievances and deſires in our Declarations of <hi>June</hi> 14. and <hi>June</hi> 23 1647 and ex<g ref="char:EOLhyphen"/>preſſed in the <hi>London</hi> Petition, be ſpeedily granted and redreſſed.</p>
+               <p n="8">8. That prſenr Proviſion be made for the Conſtant pay of the Army.</p>
+               <p n="9">9. That the arrears due from the 15 of <hi>January:</hi> may
+<pb facs="tcp:162403:5"/>be paid off, before we be Commanded to pay Quarters, and that there may be noe other abatement from Offi<g ref="char:EOLhyphen"/>cers or Souldiers for free Quarter, then according to the rates ſet downe in the Ordinance of Parliament, of the 24. day <hi>December</hi> laſt.</p>
+               <p n="10">10. That the Country may be paid for our free Quarter, according to the Deduction out of our pay out of their Aſſeſments.</p>
+               <p n="11">11. That in as much as the Aſſeſſments fall ſhort to pay the Army. That therefore there may be Additionall ſupplyes monethly out of the Eſtates of the old and new Delinquents, that there be noe more Tax or Charge to the Commonwealth.</p>
+               <p n="12">12. That forth with an Accompte be called for from all perſons that have been betruſted with any thing for the State, that the Kingdom may be ſatisfied therein.</p>
+               <p n="13">13. That the <hi>Deanes,</hi> and <hi>Chapters</hi> Lands may be given to pay the Souldiers Arreares, ſeeing the Parl. have given a way the Delinquents Eſtates that ſhould have done it.</p>
+               <p>Theſe things being the proper Iſſue of our ſerious thoughts, we implore your Excellency through the many bleſſings, deliverances, Victories and ſucceſſes, the Lord hath crowned you withall, The dangers you have been preſerved from, the miſeries of this bleeding Nation, the bloud of the innocent, the Outcry of the Widdow, and Fatherleſſe, the ſad Omen of future troubles, to conſider the neceſſity of attaining theſe things, that we may be no longer the ſcorn &amp; contempt of the Nation, nor the object of our enemies malice, by the want of juſt peace and ſettlement; but with an un<g ref="char:EOLhyphen"/>daunted courage, to deſire the Parl. that theſe things may be forthwith eſtabliſhed, that we may with ſafety be re<g ref="char:EOLhyphen"/>leaſed, from this troubleſome and hazardous imploy<g ref="char:EOLhyphen"/>ment, which by reaſon of the grievous oppreſſion there<g ref="char:EOLhyphen"/>of, we profeſſe we are weary of which things we chal<g ref="char:EOLhyphen"/>lenge as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urs and the Kingdoms due, twice bought with our blood: In the doing of which your Excellency ſhall not fail of their aſſiſtance, who are ready to wade through a Sea of troubles to have them eſtabliſhed, though they periſh in the work.</p>
+               <closer>
+                  <signed>And your Petitio<g ref="char:EOLhyphen"/>ners ſhall pray, &amp;c.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
